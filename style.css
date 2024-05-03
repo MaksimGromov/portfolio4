@@ -1,0 +1,36 @@
+
+body {
+    font-family: sans-serif;
+}
+footer{
+    background-color: black;
+    
+}
+header{
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   
+}
+.link-header{
+    margin: 3px;
+    padding: 3px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+.link-nav{
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+    background-color: blueviolet;
+    margin-top: 10px;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+nav{
+    background-color: black;
+    height: 30px;
+}
